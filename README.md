@@ -1,3 +1,3 @@
-https://github.com/clashtg/newrepository/archive/refs/heads/main.zip
+github.com/clashtg/newrepository/archive/refs/heads/main.zip
 
-https://github.com/clashtg/newrepository/archive/refs/heads/master.zip
+github.com/clashtg/newrepository/archive/refs/heads/master.zip
